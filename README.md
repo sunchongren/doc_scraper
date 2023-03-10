@@ -8,4 +8,4 @@ This is a web scraper using BS4
    
    To use this scraper, a IP pool with good performance is needed (as it's not free)
    
-   In `rotate_ip.py`, it is using a free proxy pool which is scraped from a website. However, the performance if not good.
+   In `rotate_ip.py`, it is using a free proxy pool which is scraped from a website. However, the performance is not good.
